@@ -1,0 +1,2 @@
+# sunzijie.github.io
+hexo
